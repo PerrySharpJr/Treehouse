@@ -1,0 +1,14 @@
+body {
+    background-color: #f99e1a;
+}
+
+header {
+    background-color: #218ffe;  
+}
+
+div {
+    align-self: auto;
+    align-content: center;
+    margin: 10px;
+}
+
